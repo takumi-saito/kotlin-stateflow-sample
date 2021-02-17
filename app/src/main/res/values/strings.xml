@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinFlowSample</string>
+
+    <string name="notification_channel_name_notice">お知らせ</string>
+    <string name="notification_channel_description_notice">お知らせ用の通知</string>
+    <string name="notification_channel_group_name_contents">通知内容</string>
+</resources>
